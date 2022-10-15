@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a6206" # the subpath of your site, e.g. /blog
+baseurl: "/a7209" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A6206
+number: A7209
 title: Basic Electrical and Electronics Engineering
-semester: II-I (2021-2022)
+semester: II-I (2022-2023)
 
 navigation:
   - title: Overview

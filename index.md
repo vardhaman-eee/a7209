@@ -11,45 +11,46 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  This course is intended to introduce the basic concepts of Electric Circuits, Machines, Diodes and Rectifiers to Mechanical Engineering students. This course makes the student to understand the basics of Network theorems and its applications. The operation and performance of D.C. Machines (Motors & Generators) will be exposed to the students theoretically and practically. Also, the students are made to have awareness about the AC fundamentals, Transformers and Diode rectifiers. Being an integrated course, the students will realize the theoretical concepts studied in the course by conducting experiments in the laboratory using hardware. 
+  This course is intended to introduce the basic concepts of Electric Circuits, Machines, Diodes and Rectifiers to Mechanical Engineering students. This course makes the student to understand the basics of Network theorems and its applications. The operation and performance of D.C. Machines (Motors and Generators) will be exposed to the students theoretically and practically. Also, the students are made to have awareness about the AC fundamentals, electronic devices and digital systems. Being an integrated course, the students will realize the theoretical concepts studied in the course by conducting experiments in the laboratory using hardware.
 
 ## <a name="outcomes">Course Outcomes</a>
 
 After the completion of the course, the student will be able to:
 
-A6206.1. Understand the basic laws of electrical circuits and Machines.
+A7209.1. Apply network reduction techniques and knowledge of alternating quantities to calculate current, Voltage and Power for complex circuits..
 
-A6206.2. Analyze the electrical circuits using nodal analysis, mesh analysis and network theorems with DC Source.
+A7209.2. Analyze the electrical circuits using Nodal Analysis, Mesh Analysis and Network Theorems.
 
-A6206.3. Apply AC fundamental to calculate power and Power factor in complex circuits.
+A7209.3. Test and analyze the characteristics of DC machines.
 
-A6206.4. Test DC and AC Machines to determine the performance indices.
+A7209.4. Analyze the operation and characteristics of electronic devices.
 
-A6206.5. Analyze the characteristics of DC machines, Transformers, Diodes and rectifiers. 
+A7209.5. Apply theorems of Boolean algebra to simplify a digital circuit. 
 
 # <a name="syllabus">Syllabus</a>
 
-**DC Circuits:** Electrical circuit elements (R, L and C), voltage and current sources, Ohm’s Law, KVL & KCL, mesh and nodal analysis, Superposition, Thevenin’s, Norton’s and Maximum Power Transfer Theorems. 
+**DC Circuits:** Electrical circuit elements (R, L and C), voltage and current sources, Ohms Law, KVL and KCL, Mesh and Nodal Analysis, Superposition, Thevenin’s, Norton’s and Maximum Power Transfer Theorems. 
+**AC Circuits:** Representation of sinusoidal waveforms, peak and RMS values, phasor representation, real power, reactive power, apparent power, power factor. 
 
-**AC Circuits:** Representation of sinusoidal waveforms, peak and RMS values, phasor representation, real power, reactive power, apparent power, power factor, Analysis of single-phase ac circuits consisting of R, L, C, RL, RC, RLC series combinations. 
+**D.C. Generators:** Principle of operation, Action of commutator, constructional features, armature windings - lap and wave windings, E.M.F. Equation, separately excited and self-excited dc generators, Magnetization Characteristics and Load Characteristics. 
 
-**D.C. Generators:** Principle of operation, Action of commutator, constructional features, armature windings - lap and wave windings, E.M.F. Equation, separately excited and self-excited generators-Magnetization Characteristics. D.C. Motors & Speed Control of D.C. Motors: Principle of operation, types, back E.M.F., torque equation, speed control of D.C. Motors (Armature and field control), Losses and Efficiency, Swinburne’s Test. 
+**D.C. Motors:** Principle of operation - Types - Back E.M.F., Torque equation, Characteristics, Speed control of D.C. Motors (Armature and field control), Losses and Efficiency, Brake Test, Swinburne’s Test. 
 
-**Single Phase Transformers:** Constructional details, EMF equation, operation on no load and on load Conditions, Phasor diagrams. Equivalent circuit, losses and efficiency, OC and SC tests, minimization of hysteresis and eddy current losses, numerical problems. 
+**Electronic Devices:** Diodes - symbols, operation, V-I characteristics, rectifiers - half wave, full wave and bridge rectifiers. Transistors - Construction and operation, CB, CE and CC configurations and characteristics, applications.
 
-**Diode and its Characteristics:** P-N junction diode, symbol, V-I characteristics, rectifiers, half wave, full wave and bridge rectifiers. 
+**Digital Systems:** Representation of Numerical Data in Binary Form, Basic and universal logic gates, Boolean algebra, De Morgan’s laws, Simplification by Boolean theorems, Implementation using logic gates. 
 
 # <a name="textbooks">Text Books</a>
 
-1. T. K. Nagasarkar, M. S. Suhkija, Basic Electrical Engineering, 2nd Edition, Oxford, 2007
-2. A. E. Fitzgerald, C. Kingsley, S. Umans, Electric Machinery, 5th edition, TMH, New Delhi, 2002
+1. T. K. Nagasarkar, M. S. Suhkija, Basic Electrical Engineering, 2nd Edition, Oxford University Press, 2007
 
 
 ## <a name="references">Reference Books</a>
 
-1. B. L. Theraja, A. K. Theraja , A text book of Electrical Technology, 2nd edition, S. Chand Publishers, New Delhi, 2002
-2. S. Salivahanan, N Suresh Kumar, A. Vallavaraj , Electronic Devices and Circuits, Tata McGraw Hill, India, 2007
-3. J. Millman, C. Halkias, and Satyabratha Jit , Electronic Devices and Circuits, 3rd Edition, Tata McGraw Hill, New Delhi, 2011
+1. A. E. Fitzgerald, C. Kingsley, S. Umans, Electric Machinery, 5th edition, TMH, New Delhi, 2002
+2. B. L. Theraja, A. K. Theraja , A text book of Electrical Technology, 2nd edition, S. Chand Publishers, New Delhi, 2002
+3. S. Salivahanan, N Suresh Kumar, A. Vallavaraj , Electronic Devices and Circuits, Tata McGraw Hill, India, 2007
+4. J. Millman, C. Halkias, and Satyabratha Jit , Electronic Devices and Circuits, 3rd Edition, Tata McGraw Hill, New Delhi, 2011
 
 <hr>
 
@@ -82,15 +83,15 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 1. Verification of Ohm’s Law
 2. Verification of KVL and KCL
 3. Verification of Thevenin’s and Norton’s theorems
-4. Verification of Maximum Power Transfer theorem 
-5. Verification of Super Position and Reciprocity theorems 
+4. Verification of Superposition Theorem 
+5. Open circuit characteristics of DC Shunt Generator 
+6. Load characteristics of DC Shunt Generator
 **Cycle-2:** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXW3cG6bMEtAjY9Xzw9162sB0aLKTVdkwfdncGvEWWBsbQ?e=hQEAwo){:target="_blank" rel="noopener"}
-6. OC and SC Test on a Single-Phase Transformer 
-7. Open circuit characteristics of DC Shunt Generator 
-8. Brake test on DC Shunt motor and draw the characteristics 
-9. Predetermination of efficiency of given DC Shunt machine (Swinburne’s Test)
-10. Speed control of DC shunt Motor 
-11. Determination of PN junction diode characteristics
+7. Brake test on DC Shunt motor 
+8. Speed Control of DC Shunt Motor 
+9. Determination of PN Junction Diode Characteristics
+10. Input and Output Characteristics of Transistor in CB Configuration 
+11. Input and Output Characteristics of Transistor in CE Configuration
 12. Realization of full wave and half wave rectifier characteristics
 
 **Lab attendance is required**.

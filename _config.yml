@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a7205" # the subpath of your site, e.g. /blog
+baseurl: "/a6206" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A7205
-title: Electric Power Generation
-semester: 2021-2022
+number: A6206
+title: Basic Electrical and Electronics Engineering
+semester: II-I (2021-2022)
 
 navigation:
   - title: Overview
@@ -60,7 +60,7 @@ instructors:
   - id: srv
     name: Dr. S. Ravivarman
     email: ravivarman@vardhaman.org
-    #web: http://wwww.example.com
+    web: http://wwww.sravivarman.com
     phone: +91 99942 77431
 
 offerings:

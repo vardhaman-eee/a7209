@@ -86,6 +86,7 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 4. Verification of Superposition Theorem 
 5. Open circuit characteristics of DC Shunt Generator 
 6. Load characteristics of DC Shunt Generator
+
 **Cycle-2:** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXW3cG6bMEtAjY9Xzw9162sB0aLKTVdkwfdncGvEWWBsbQ?e=hQEAwo){:target="_blank" rel="noopener"}
 7. Brake test on DC Shunt motor 
 8. Speed Control of DC Shunt Motor 
